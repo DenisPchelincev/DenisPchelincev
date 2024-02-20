@@ -1,6 +1,6 @@
 /.idea/*
-.idea/*
+.idea/codeStyles/codeStyleConfig.xml
+misc.xml
+.idea/
 DenisPchelincev.iml
-.idea/codeStyles/*
-codeStyleConfig.xml
 vcs.xml
